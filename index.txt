@@ -1,7 +1,9 @@
 hola mundo
 esto fue agregado despues del primer comit
+<<<<<<< HEAD
 ESTO LO AGREGE EN MI PRIMERA RAMA
 MI LISTA DE AMIGOS ES :
-LOLA
-LISKED
-SOCIZ
+1.PEPE
+2.FRANCISCO
+3.MARIA
+4.LUCHO
